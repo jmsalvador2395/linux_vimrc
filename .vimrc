@@ -1,0 +1,9 @@
+set number
+set tabstop=4
+set shiftwidth=4
+set nobackup
+set nowritebackup
+set noswapfile
+set noundofile
+set autoindent
+syntax on
