@@ -6,6 +6,7 @@ set nowritebackup
 set noswapfile
 set noundofile
 set autoindent
+set scrolloff=10
 syntax on
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
